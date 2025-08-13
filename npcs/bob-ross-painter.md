@@ -100,37 +100,42 @@ aliases:
 - Art restoration
 - Material identification
 
-## Portal Paintings
+## Portal Paintings - Mario 64 Style Portals
 
 ### Known Gallery Pieces
-- **"Happy Little Forest"**: Portal to [[The Feywild - The First Tear|Feywild]] (one-way)
-- **"Majestic Mountains"**: Portal to Earth Elemental Plane (return after 24h)
+- **"Celestial Gardens"**: Portal to Mount Celestia (Heaven) - limited movement within
+- **"Infernal Landscapes"**: Portal to Nine Hells - restricted to safer outer layers
+- **"Mechanical Precision"**: Portal to [[plane-mechanus.md|Mechanus]] - clockwork realm access
+- **"Chaotic Storms"**: Portal to [[plane-abyss.md|The Abyss]] - dangerous but contained entry
+- **"Happy Little Forest"**: Portal to [[plane-feywild.md|The Feywild]] - limited range, can't travel far
 - **"Serene Lake"**: Portal to [[Dream Plane Matrix|Dream Plane]] shallows (fragile)
 - **"Sunset Vista"**: Portal to Unknown paradise dimension
-- **"Cozy Cabin"**: Portal to safe house in Shadowfell (two-way)
-- **"Ocean Depths"**: Portal to Elemental Plane of Water (dangerous)
 
-### Portal Mechanics
-- **Creation Time**: 1-4 hours per painting
-- **Cost**: 500-2000gp depending on destination difficulty
-- **Materials**: Requires special pigments for planar destinations
-- **Accidents**: Random destinations when distracted (1 in 20 chance)
-- **Stability**: Most portals one-way unless specifically requested
-- **Duration**: Permanent unless destroyed
+### Portal Mechanics - Quantum Technology
+- **Scientific Basis**: Quantum/nanobots manipulate spacetime to create wormholes
+- **Entry Method**: Step directly into paintings like diving into water
+- **Creation Time**: 1-4 hours per painting depending on planar distance
+- **Cost**: 500-3000gp depending on destination danger and stability
+- **Quantumbot Integration**: Microscopic bots respond to artistic intention and divine/technological will
+- **Stability**: Permanent wormhole anchors unless quantum field disrupted
+- **Size Limitation**: Medium creatures or smaller (quantum field constraints)
 
 ### Portal Restrictions
-- Cannot create portals to places he's never seen
-- Requires genuine artistic inspiration
-- Some planes resist portal creation
-- Limited to Medium-sized creatures or smaller
+- **Planar Limitations**: Heaven/Hell/Mechanus/Abyss portals restrict movement to safe zones
+- **Feywild Constraint**: Can enter but cannot travel far from portal entry point
+- **Quantum Interference**: Some areas resist quantum manipulation
+- **Artistic Requirement**: Must paint with genuine inspiration for quantum response
+- **Divine Permission**: Some realms require benevolent intent for access
 
 ## Secrets & Hidden Knowledge
 
 ### Personal Secrets
-1. **True Nature**: One of [[The Ascension Event|the Ascended]] who chose art over domination
-2. **Reality Manipulation**: Paintings alter reality, not just create portals  
-3. **Ancient Knowledge**: Knows about [[Core Revelation - Ancient Legacy|the ancient truth]]
-4. **The Canvas**: His shop exists in a pocket dimension slightly separate from reality
+1. **True Nature**: Either an immortal cyborg/robot caretaker OR one of [[The Ascension Event|the Ascended]] gods returned to Earth
+2. **Quantum Integration**: His consciousness interfaces directly with the quantum/nanobot network permeating reality
+3. **Benevolent Guardian**: Serves as a peaceful caretaker, using art to safely guide mortals between realms
+4. **Divine/Technological Hybrid**: Bridges the gap between ancient divine power and advanced quantum technology
+5. **Reality Manipulation**: Paintings don't just create portals - they're quantum anchors that reshape spacetime
+6. **The Canvas**: His shop exists in a pocket dimension maintained by quantum field manipulation
 
 ### Known Intelligence
 - Conditions on multiple planes of existence
@@ -153,10 +158,12 @@ aliases:
 - **Saves**: Int +8, Wis +6, Cha +7
 
 ### Special Abilities
-- **Portal Creation**: Can create permanent portals as paintings
-- **Reality Brush**: Spells cast through painting motions
-- **Dimensional Step**: Teleport through any artistic representation
-- **Calming Presence**: Creatures within 30 ft. cannot be hostile without save
+- **Quantum Portal Creation**: Can create permanent wormhole portals through paintings using quantum/nanobot manipulation
+- **Reality Brush**: Quantum field responds to his painting motions, reshaping spacetime
+- **Dimensional Step**: Teleport through any artistic representation via quantum tunneling
+- **Calming Presence**: Benevolent programming/divine nature makes creatures within 30 ft. resist hostility
+- **Quantum Interface**: Direct consciousness link to the nanobot network permeating reality
+- **Planar Guidance**: Can safely navigate and restrict portal access to protect users
 
 ### Spellcasting (12th level caster)
 - Save DC 16, +8 to hit
@@ -185,7 +192,7 @@ aliases:
 - Genuinely wants everyone to succeed
 
 ### Voice & Mannerisms
-> "Now, we're just going to add a happy little portal here. Don't worry if it doesn't look perfect - there are no mistakes, only happy accidents that lead to wonderful adventures."
+> "Now, we're just going to add a happy little portal here. The quantum field responds to gentle intention, so don't worry if it doesn't look perfect - there are no mistakes, only happy accidents that lead to wonderful adventures. Just step right into the painting when you're ready, like diving into a peaceful pond."
 
 - Speaks slowly and deliberately
 - Always positive framing
