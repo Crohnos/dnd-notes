@@ -6,33 +6,43 @@ created: 2025-01-13
 # Nathan's Backstory
 
 ## Noble Chameleonfolk Heritage
-Nathan was born into one of the most prestigious chameleonfolk families, a race genetically engineered by ancient civilizations as adaptive survivors. His family's bloodline can trace their scales back to the original created specimens, a fact they never let anyone forget. This noble heritage instilled in him:
+Nathan was born into one of the most prestigious chameleonfolk families, a lizardfolk variant genetically engineered by ancient civilizations. Chameleonfolk possess unique traits beyond standard lizardfolk:
+- **Enhanced Perception**: Independently moving eyes for superior awareness
+- **Adaptive Camouflage**: Color-changing scales for stealth and communication
+- **Wall Climbing**: Adhesive pads allowing movement on any surface
+- **Prehensile Tongue**: 15-foot reach for grabbing objects
+
+His family comes from a culture of strict families with high community pressure to perform, emphasizing scholarly excellence and achievement. This noble heritage instilled in him:
 - An unshakeable belief in his own superiority
 - An obsession with aesthetics and physical perfection
 - A deep understanding of his race's engineered nature
 - Access to resources and education unavailable to common folk
 
-## The Chromatic Prophecy
-Chameleonfolk society includes a religious sect of colorblind seers who speak of the Chromatic Convergence - a prophesied event where all colors will become one. Nathan, with his color-changing abilities intact, views these prophets with a mixture of respect and pity. He believes:
-- He may play a special role in the Convergence due to his abilities
-- The prophecy might be connected to his immortality research
-- The seers' colorblindness is a genetic flaw he could potentially cure
-- His aesthetic perfection makes him a chosen one
+## The Chromatic Convergence Opportunity
+Nathan is aware of the Chromatic Convergence, an event where all colors of the world are being corrupted and changed. Unlike the colorblind seers who prophesy about it, Nathan sees it as a scientific opportunity. With good dice rolls, he can take advantage of this event to change his body's color at will beyond normal chameleonfolk abilities. He believes:
+- The Convergence represents a fundamental shift in chromatic physics
+- He can manipulate the color corruption for his research
+- This event might be key to achieving immortality
+- His enhanced color-changing during the Convergence proves his superiority
 
-## STEM Education and Superiority Complex
-Nathan attended the most elite STEM college available, studying advanced alchemy and artifice. His education reinforced his existing biases:
+## College of Alchemy Professor
+Nathan attended and graduated from the College of Alchemy, and now serves as a professor there. His academic career reinforced his existing biases:
 - Convinced him that only STEM fields represent "real" education
 - Taught him the theoretical frameworks for achieving immortality
-- Connected him with the College of Alchemy's tier system
+- Connected him with the College's research bounty tier system
 - Made him insufferably elitist about academic credentials
 
-He graduated with highest honors and immediately began dismissing anyone without similar credentials as intellectually inferior, especially those with "useless" liberal arts degrees.
+As a professor, he has:
+- A rival alchemist colleague who competes for recognition
+- Access to the College's extensive resources
+- Pressure from the Dean/Board of Directors who secretly want him to find immortality
+- Been tasked with making a scientific discovery worthy of tenure
 
 ## The Aesthetic Obsession
-During his college years, Nathan developed an extreme fixation on physical perfection:
-- Spent countless hours perfecting his muscular form
-- Used his color-changing abilities to always appear in optimal lighting
-- Developed alchemical supplements to enhance his physique
+Nathan has developed an extreme fixation on physical perfection:
+- Maintains a jacked, muscular physique through 'performance-enhancing' potions
+- Uses his color-changing abilities to always appear in optimal lighting
+- Developed his own line of alchemical supplements for physical enhancement
 - Became convinced that physical perfection is tied to achieving immortality
 - Views less physically perfect beings with barely concealed disgust
 
@@ -60,12 +70,16 @@ Despite his noble upbringing and elite education, Nathan is profoundly socially 
 - Believes his awkwardness is others' failure to appreciate his superiority
 
 ## The Path to Adventure
-Nathan joined the adventuring party not out of altruism but because:
-- Field research is necessary for immortality breakthroughs
+Nathan's superiors have tasked him with going on a journey to make a scientific discovery worthy of tenure. In reality, the Dean and Board of Directors secretly want him to find the secret to immortality. He joined the adventuring party because:
+- Field research is necessary for tenure-worthy breakthroughs
+- He has a list of 'research bounties' with tiered rewards (immortality is legendary tier)
 - Ancient ruins might contain pre-Ascension technology
 - Legendary ingredients require dangerous acquisition
-- The College of Alchemy values practical results over pure theory
+- The College values practical results over pure theory
 - Other party members serve as useful test subjects (though he'd never admit this)
+
+## The Shadow in His Village
+Unknown to Nathan, another chameleonfolk from his village follows him - an outcast who became a rogue thief/assassin. This individual's abilities work particularly well for criminal activities, and they bide their time, watching Nathan from the shadows for unknown reasons.
 
 ## Hidden Insecurities
 Beneath his arrogant exterior, Nathan harbors deep fears:

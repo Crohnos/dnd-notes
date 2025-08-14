@@ -54,11 +54,19 @@ created: 2025-01-13
 ### Therapy Villains
 - No direct relationship
 
-### Salt Murderer (Unknown)
-- **PRIMARY ANTAGONIST**: Killed slug family
-- Identity remains mystery
-- Must discover and confront
-- Possibly recurring villain
+### The Salt Baron
+- **PRIMARY ANTAGONIST**: Leader of the Spice Syndicate
+- Ordered the murder of Kyle's slug family with salt
+- Currently has a hit out on Kyle himself
+- Leads underground goblinoid crime organization
+- Uses mind-controlling seasonings on population
+
+### Shurink the Wormrider
+- **SPICE SYNDICATE ENFORCER**: Goblin blood hunter
+- Rides a purple worm like Dune sandworms
+- Legendary animal handling skills
+- Elite member of the Spice Syndicate
+- Potential combat encounter
 
 ### Slug Family (Deceased)
 - **CORE CONNECTION**: Adoptive family
@@ -166,7 +174,15 @@ created: 2025-01-13
 ### Slug Communities (If Any Exist)
 - **HONORARY MEMBER**: Through adoption
 - Would be welcomed
-- Might know about murderer
+- Might know about the Spice Syndicate threat
+
+### The Spice Syndicate
+- **ENEMY FACTION**: Underground goblinoid organization
+- Killed his slug family on Salt Baron's orders
+- Currently hunting Kyle
+- Uses "special seasonings" for mind control
+- Operates in world where eating is just a hobby
+- Kyle is immune due to ghost pepper
 
 ## Plot Threads
 
@@ -192,11 +208,12 @@ created: 2025-01-13
 ### Political Experiments
 - No connection
 
-### Salt Murderer Mystery
-- **PERSONAL QUEST**: Must solve
-- Who killed slug family?
-- Why use salt specifically?
-- Is killer still active?
+### Salt Baron and Spice Syndicate
+- **PERSONAL QUEST**: Confront the Salt Baron
+- Spice Syndicate killed slug family
+- Salt used as signature weapon
+- Syndicate actively hunting Kyle
+- Must stop their mind-control operations
 
 ### Giant Foot Incident
 - **MYSTERY**: What stepped on him?
@@ -209,6 +226,8 @@ created: 2025-01-13
 - Ancient nanotech possibility
 - Why did it grant spirit power?
 - Are there more?
+- Provides immunity to Spice Syndicate control
+- Makes Kyle a threat to their operations
 
 ### Fighting Game Quest
 - **OBSESSION**: Seeks real equivalents
@@ -265,10 +284,11 @@ created: 2025-01-13
 - Changed him permanently
 
 ### Salt as Weapon
-- Why was salt used?
-- Symbolic meaning?
-- Specific to slugs or larger threat?
-- Murderer's signature
+- Salt Baron's signature weapon
+- Lethal to slug-kind specifically
+- Symbol of Spice Syndicate power
+- Part of their seasoning arsenal
+- Represents control over food/consumption
 
 ## Emotional Connections
 

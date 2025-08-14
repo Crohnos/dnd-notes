@@ -26,11 +26,11 @@ created: 2025-01-13
   - Moves with wolf-like grace
 
 ## Personality Traits
-- Silent and observant (literally cannot speak without lantern lit)
+- Silent and observant (voice stolen by Archfey, rented back daily)
 - Deeply protective of children
 - Distrustful of civilization
 - Patient from centuries of solitude
-- Communicates through gestures when lantern is unlit
+- Communicates through gestures when out of words
 
 ## Ideals
 - Nature's balance must be preserved
@@ -39,16 +39,17 @@ created: 2025-01-13
 - Prophecies and visions guide wise action
 
 ## Bonds
-- Searching for her stolen child in the Feywild
+- Searching for her stolen child of the forest in the Feywild
 - Connected to the Wolf Animal Lord
-- Bound to the mysterious lantern
-- Loyal to her wolf familiar
+- Voice held hostage by an Archfey
+- Loyal to Reina, her black-furred wolf companion
 
 ## Flaws
-- Cannot communicate without the lantern
+- Limited words per day due to voice rental from Archfey
 - Overly protective of children to the point of recklessness
 - Isolated for so long that social situations are challenging
 - May trust wolves more than people
+- Vulnerable to werewolf infiltration due to wolf obsession
 
 ## Abilities & Features
 
@@ -69,24 +70,25 @@ created: 2025-01-13
 - **Ritual Casting**: Can cast druid spells as rituals
 
 ### Special Abilities
-- **Prophetic Visions**: Receives divine/natural visions about future events
-- **Wolf Familiar**: Constant companion, possibly magical
-- **Lantern-Bound Speech**: Can only speak when lantern is lit
+- **Prophetic Visions**: Receives visions shortly before events happen
+- **Wolf Companion**: Reina, black-furred wolf with deep bond
+- **Voice Rental**: Daily word limit from Archfey, accumulates interest if exceeded
 - **Hermit's Insight**: Centuries of isolation grant unique perspective
+- **All-Wolf Wild Shape**: Every form appears as a wolf variant
 
 ## Equipment
-- **The Speaking Lantern**: Mysterious artifact controlling speech (requires investigation)
 - **Druidic Focus**: [Staff, totem, or other natural implement]
 - **Hermit's Pack**: Basic survival gear
 - **Natural Armor**: Hide or leather armor
 - **Healer's Kit**: Herbs and natural remedies
+- **Voice Tokens**: Symbolic representation of daily word allowance
 
 ## Languages
-- Common (can understand but not speak without lantern)
+- Common (can understand but limited speaking due to voice rental)
 - Elvish
 - Druidic
 - Potentially Sylvan
-- Wolf body language (informal communication)
+- Wolf body language (primary communication when out of words)
 
 ## Proficiencies
 - **Armor**: Light armor, medium armor, shields (non-metal)
@@ -107,18 +109,20 @@ created: 2025-01-13
 - Protects vulnerable party members
 
 ## Roleplay Notes
-- Communicates through gestures, writing, or wolf sounds when lantern is unlit
+- Carefully rations words throughout the day
+- Communicates through gestures, writing, or wolf sounds when out of words
 - Shows affection through wolf-like behaviors (head bumps, protective positioning)
 - Becomes visibly agitated around threats to children
-- May receive visions at dramatically appropriate moments
+- Receives visions shortly before they occur
 - Struggles with technology and urban environments
 
 ## Character Arc Potential
-- Finding and rescuing her stolen child
-- Discovering the truth about the lantern
-- Confronting the werewolf threat ("double werewolf" risk)
+- Finding and rescuing her stolen child of the forest
+- Negotiating or breaking free from Archfey voice contract
+- Becoming a "double werewolf" after lycanthropy bite
+- Confronting werewolf pack and false druid infiltrator
 - Learning to trust and communicate with the party
-- Bridging the gap between nature and civilization
+- Discovering her role as engineered Feywild portal guardian
 
 ## Party Role
 - Primary scout (in wolf form)
@@ -128,8 +132,9 @@ created: 2025-01-13
 - Pack mother figure (protective of party)
 
 ## Hidden Elements (Unknown to Player)
-- At risk of werewolf bite while in wolf form
-- Connection to "Moonwhisper" - The False Druid
-- True nature of the stolen child
-- Origin and purpose of the speaking lantern
-- Deeper connection to Feywild than realized
+- Will contract lycanthropy and become "double werewolf"
+- Werewolf will pretend to be wild shape druid
+- Child was meant to be born via immaculate conception
+- Archfey voice theft has deeper purpose
+- Elves engineered as Feywild portal guardians
+- Portal is quantum bot-powered space-time rift

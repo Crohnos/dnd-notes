@@ -105,7 +105,10 @@ created: 2025-01-13
 - Uses illusions and misdirection
 - Sanctuary and protection spells for allies
 - Sleep and mind-affecting spells
-- Redirects enemy attacks against themselves
+- **Unique Attack Style**: When possible, causes enemies to harm themselves with the damage type Faris would have used
+  - If he would cast firebolt, he manipulates the target to set themselves on fire
+  - Creates illusions or suggestions that lead to self-harm
+  - Note: This creates complex gameplay implications around forcing NPC behavior
 - Healing word and support from safe distance
 
 ## Spellcasting Preferences

@@ -3,7 +3,7 @@ type: npc
 name: Shurink the Wormrider
 race: Goblin
 profession: Sandworm Rider / Desert Nomad
-faction: Independent (Worm Cult)
+faction: Spice Syndicate
 location: Deep Desert / Underground Networks
 world: Custom Setting
 campaign: dnd-campaign
@@ -41,7 +41,7 @@ aliases:
 - **Age**: 47 (ancient for a goblin)
 - **Gender**: Male
 - **Race**: Goblin
-- **Class**: Beast Master Ranger / Druid (Circle of the Land - Desert)
+- **Class**: Blood Hunter / Beast Master
 - **Profession**: Wormrider, Deep Desert Guide, Mineral Trader
 - **Current Location**: Mobile (follows underground networks across vast desert regions)
 

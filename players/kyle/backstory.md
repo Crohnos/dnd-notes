@@ -36,18 +36,23 @@ Seeking purpose and knowledge, Kyle enrolled in a bard college, hoping to learn 
 - The curriculum was completely worthless
 - The professors were frauds who knew no real magic
 - He learned absolutely nothing of value from the formal education
-- He discovered his musical talents entirely on his own
+- He entered with no magical or spiritual abilities whatsoever
+- Graduated as just another charlatan like all other bard college graduates
+- All bards who graduate from bard college are frauds with no actual magical abilities
 - He developed a deep skepticism about formal education
 
-Despite the college's failures, Kyle somehow acquired an impossible collection of musical instruments that he carries everywhere, pulling out a different one for each spell he casts.
+Despite the college's failures, Kyle somehow acquired an impossible collection of musical instruments that he carries everywhere, which would later serve him when he gained real power.
 
 ## The Ghost Pepper Incident
-Kyle's actual bardic powers came not from education but from eating what he thought was a normal pepper. This "ghost pepper" was actually something far more mysterious:
+Kyle's actual bardic powers came not from education but from eating what he thought was a normal pepper shortly after graduating from bard college. This "ghost pepper" was actually something far more mysterious:
 - It burned with supernatural fire that opened his third eye
 - It connected him to the spirit realm permanently
 - It may have been an ancient artifact disguised as food
 - It could be connected to ancient nanotechnology or magic
 - It granted him College of Spirits abilities instantly
+- It inoculated him against the Spice Syndicate's mind-controlling seasonings
+- Everyone who knew him before doesn't know about his newfound abilities
+- This transformation is what sets him apart from all other bard college graduates who remain powerless charlatans
 
 ## Fighting Game Obsession
 Throughout his travels, Kyle has developed an inexplicable obsession with fighting games and martial arts tournaments. He:
@@ -57,11 +62,11 @@ Throughout his travels, Kyle has developed an inexplicable obsession with fighti
 - Often attempts to perform impossible combat moves he's seen in his imagination
 
 ## Current State
-Kyle now travels with the adventuring party as a College of Spirits Bard, calling upon supernatural entities to fuel his magic while playing an endless variety of instruments. He carries the trauma of his past:
+Kyle now travels with the adventuring party as a College of Spirits Bard, calling upon supernatural entities to fuel his magic while playing an endless variety of instruments. Every spell he casts summons a different spirit, and each spirit has its own distinct personality, quips, and jokes. He carries the trauma of his past:
 - The double abandonment (biological parents and slug family)
-- The mystery of who killed his adoptive family
+- The mystery of who killed his adoptive family (now known to be connected to the Salt Baron and Spice Syndicate)
 - The question of what giant entity squished him
-- The true nature of the ghost pepper that gave him power
+- The true nature of the ghost pepper that gave him power and protects him from the Spice Syndicate
 
 ## Personality Shaped by Tragedy
 His unusual upbringing and traumatic experiences have created a complex personality:
@@ -73,8 +78,20 @@ His unusual upbringing and traumatic experiences have created a complex personal
 - Surprisingly resilient despite repeated trauma
 
 ## Unresolved Mysteries
-- Who murdered his slug family with salt, and why?
+- The Salt Baron of the Spice Syndicate ordered the hit on his slug family - but why?
 - What was the giant foot that squished him? (Connected to the Slumbering Titan?)
 - Where did the ghost pepper really come from? (Ancient technology? Fey artifact?)
-- Why do spirits answer his call so readily?
+- Why do spirits answer his call so readily, each with unique personalities?
 - Are his biological parents still alive somewhere?
+
+## The Spice Syndicate Threat
+Kyle is now targeted by the Spice Syndicate, an underground goblinoid organization that:
+- Habituates the population to eating unhealthy/addictive/mind-controlling food
+- Uses "special seasonings" designed for population control
+- Operates in a world where people don't need to eat (hunger is obsolete, eating is just a hobby)
+- Is led by the Salt Baron who ordered the murder of Kyle's slug parents
+- Cannot affect Kyle due to his ghost pepper inoculation
+- Sees Kyle as a threat because of his immunity to their influence
+
+## Musical Burden and Solution
+Kyle functions as a one-man band, carrying dozens of instruments that frequently leave him overencumbered. He dreams of meeting a master craftsman who can make his instruments lighter and collapsible, allowing him to carry his entire collection easily. Each instrument is essential as different spirits require different musical accompaniment.
